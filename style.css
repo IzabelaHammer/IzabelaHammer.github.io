@@ -1,0 +1,63 @@
+h1,h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(177, 14, 14);
+  }
+  p {
+    font-family:'Courier New', Courier, monospace
+  }
+
+  body {
+    background-color: rgb(5, 47, 95);
+    padding: 30px;
+  }
+
+  #quemeusou {
+    color: rgb(241, 162, 8);
+    position: absolute;
+    left: 370px;
+    top: 250px;
+   }
+
+  #sobre {
+    position: absolute;
+    left: 360px;
+   }
+
+  ul li:nth-child(odd) {
+    color: white;
+    background-color: rgb(155, 115, 78);
+  }
+
+  ul li a {
+    color: rgb(170, 16, 16);
+    font-size: large;
+  }
+
+  .raciocinio {
+  font-size: 22px;
+  }
+
+  .experiencia {
+  font-size: 20px;
+  }
+
+  .plus {
+  font-size: 18px;
+  }
+  
+  #iza {
+  float: left;
+  padding: 10px;
+  background-color: white;
+  }
+
+  #nome
+  {
+  text-align: center;
+  }
+
+  .foto-descricao {
+      height:300px;
+      
+  }
+ 
