@@ -1,4 +1,4 @@
-h1,h2{
+h1,h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(177, 14, 14);
   }
@@ -31,6 +31,7 @@ h1,h2{
   ul li a {
     color: rgb(170, 16, 16);
     font-size: large;
+    text-decoration: none;
   }
 
   .raciocinio {
@@ -60,4 +61,5 @@ h1,h2{
       height:300px;
       
   }
+ 
  
